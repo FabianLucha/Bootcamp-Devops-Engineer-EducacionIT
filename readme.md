@@ -10,4 +10,4 @@ Carlos Trepat, carlostrepat@gmail.com, Perfil Linkedin: http://linkedin.com/in/c
 
 Fabian Lucha, exelucha@gmail.com, Perfil Linkedin: https://www.linkedin.com/in/fabian-ezequiel-lucha-1644bb15b/, Rol Laboral: Recepcionista Hotel Royal Princess, Carrera: Bootcamp Devops Engineer. 
 
- Lorena Bellón, lorenabellon@gmail.com, Perfil Linkedin: https://ar.linkedin.com/in/lorenabellon, Rol laboral: Software Engineer, Carrera: Bootcamp Devops Engineer.
+Lorena Bellón, lorena@beckandbell.com, Perfil Linkedin: https://ar.linkedin.com/in/lorenabellon, Rol laboral: Software Engineer, Carrera: Bootcamp Devops Engineer.
