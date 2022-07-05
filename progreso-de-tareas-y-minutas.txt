@@ -1,0 +1,51 @@
+PROGRESO DE CADA TAREA
+======================
+
+Sprint 2
+    Tarea 1: Instalar Git en su ultima versión:
+        Agustín:
+        Carlos:
+        Diego: hecho
+        Fabián: hecho
+        Lorena:
+        Rafael:
+
+    Tarea 2: Instalar Visual Studio Code y Plugins
+        Agustín:
+        Carlos:
+        Diego: hecho
+        Fabián: hecho
+        Lorena:
+        Rafael:
+    
+    Tarea 3: Sincroniar Visual Sturio Code con GitHub
+        Agustín:
+        Carlos:
+        Diego: hecho
+        Fabián: hecho
+        Lorena:
+        Rafael:
+    
+    Tarea 4: Instalar NodeJS y utilizarlo con Visual Sturio Code
+        Agustín:
+        Carlos:
+        Diego: hecho
+        Fabián:
+        Lorena:
+        Rafael:
+    
+    Tarea 5: Instalar el módulo de ReactJS y de Express
+        Agustín:
+        Carlos:
+        Diego: hecho
+        Fabián:
+        Lorena:
+        Rafael:
+
+MINUTAS DE REUNIONES
+====================
+lunes 4/7/2022: 
+    * Se acordó priorizar el avance de las tareas pendientes del Sprint 2.
+    * Se dedicó un espacio de la reunión a la explicación por parte de Lorena del uso de Git/GitHub en equipo.
+    * Se definió subir al repositorio el proyecto dado en la clase del viernes 1/7.
+    * Se definió avanzar con la tarea 1 del sprint 3 (creación de las cuentas en los proveedores cloud).
