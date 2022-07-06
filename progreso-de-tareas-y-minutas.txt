@@ -42,6 +42,13 @@ Sprint 2
         Lorena:
         Rafael:
 
+Sprint 3
+    Tarea 1: Crear cuentas en proveedores cloud
+        AWS: Cuentas creadas: Fabián, Diego, Rafael, Lorena, Agustin y Carlos
+        GCP:
+        AZURE:
+        
+
 MINUTAS DE REUNIONES
 ====================
 lunes 4/7/2022: 
