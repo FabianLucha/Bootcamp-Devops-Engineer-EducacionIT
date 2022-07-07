@@ -4,39 +4,39 @@ PROGRESO DE CADA TAREA
 Sprint 2
     Tarea 1: Instalar Git en su ultima versión:
         Agustín:
-        Carlos:
+        Carlos: hecho
         Diego: hecho
         Fabián: hecho
         Lorena:
-        Rafael:
+        Rafael: hecho
 
     Tarea 2: Instalar Visual Studio Code y Plugins
-        Agustín:
-        Carlos:
+        Agustín: hecho
+        Carlos: hecho
         Diego: hecho
         Fabián: hecho
-        Lorena:
-        Rafael:
+        Lorena: hecho
+        Rafael: hecho
     
-    Tarea 3: Sincroniar Visual Sturio Code con GitHub
+    Tarea 3: Sincroniar Visual Studio Code con GitHub
         Agustín:
-        Carlos:
+        Carlos: hecho
         Diego: hecho
         Fabián: hecho
-        Lorena:
+        Lorena: hecho
         Rafael:
     
-    Tarea 4: Instalar NodeJS y utilizarlo con Visual Sturio Code
+    Tarea 4: Instalar NodeJS y utilizarlo con Visual Studio Code
         Agustín:
-        Carlos:
+        Carlos: hecho
         Diego: hecho
-        Fabián:
-        Lorena:
+        Fabián: hecho
+        Lorena: hecho
         Rafael:
     
     Tarea 5: Instalar el módulo de ReactJS y de Express
         Agustín:
-        Carlos:
+        Carlos: hecho
         Diego: hecho
         Fabián:
         Lorena:
@@ -56,3 +56,10 @@ lunes 4/7/2022:
     * Se dedicó un espacio de la reunión a la explicación por parte de Lorena del uso de Git/GitHub en equipo.
     * Se definió subir al repositorio el proyecto dado en la clase del viernes 1/7.
     * Se definió avanzar con la tarea 1 del sprint 3 (creación de las cuentas en los proveedores cloud).
+miercoles 6/7/2022:
+    * Se dedicó tiempo de reunión para orientar al equipo sobre el estado de avance de tareas.
+    * Definimos consultas concretas sobre abordaje de tareas del Sprint 3. 
+        Se concluye: aguardar el avance de las clases para ejecutar las tareas restantes de dicho Sprint.
+    * Se compartió el estado del repositorio y los cambios realizados sobre el mismo por miembros del equipo.
+        Creación de la rama desarrollo, push de la app de NodeJS y archivo txt de progreso.
+     
