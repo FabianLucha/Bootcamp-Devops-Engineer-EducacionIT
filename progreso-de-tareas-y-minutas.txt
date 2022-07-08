@@ -7,7 +7,7 @@ Sprint 2
         Carlos: hecho
         Diego: hecho
         Fabián: hecho
-        Lorena:
+        Lorena: hecho
         Rafael: hecho
 
     Tarea 2: Instalar Visual Studio Code y Plugins
@@ -18,7 +18,7 @@ Sprint 2
         Lorena: hecho
         Rafael: hecho
     
-    Tarea 3: Sincroniar Visual Studio Code con GitHub
+    Tarea 3: Sincronizar Visual Studio Code con GitHub
         Agustín:
         Carlos: hecho
         Diego: hecho
@@ -40,14 +40,7 @@ Sprint 2
         Diego: hecho
         Fabián:
         Lorena:
-        Rafael:
-
-Sprint 3
-    Tarea 1: Crear cuentas en proveedores cloud
-        AWS: Cuentas creadas: Fabián, Diego, Rafael, Lorena, Agustin y Carlos
-        GCP:
-        AZURE:
-        
+        Rafael:      
 
 MINUTAS DE REUNIONES
 ====================
