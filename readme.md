@@ -1,4 +1,4 @@
-![](https://www.muycomputerpro.com/wp-content/uploads/2019/03/devops.png)
+<img src="devops.png">
 
 # Bienvenidos al repositorio del equipo 2
 ## FASE 3 del Bootcamp DevOps Enginner de EducacionIT
