@@ -1,14 +1,48 @@
-Datos de grupo:
-==============
+<img src="devops.png">
 
-Diego Martin Luna, diegomartinluna@gmail.com, Perfil Linkedin: https://www.linkedin.com/in/diegomartinluna/, rol laboral: Gerente de Sistemas, carrera Bootcamp Devops Engineer.
+# Bienvenidos al repositorio del equipo 2
+## FASE 3 del Bootcamp DevOps Enginner de EducacionIT
 
-Rafael Ávila, rafaelavilahernandez@gmail.com, Perfil Linkedin:https://www.linkedin.com/in/rafael-avila-6343158b/, Rol laboral: IT Cordinator, carrera Bootcamp Devops Engineer.
+### Integrantes:
 
-Quiroga Agustin, quirogaagu@gmail.com, Perfil Linkedin:https://www.linkedin.com/in/agustin-quiroga-60aab01b1/, Rol laboral: Analista de infraestructura, Carrera: Bootcamp Devops Engineer.
+------------
 
-Carlos Trepat, carlostrepat@gmail.com, Perfil Linkedin: http://linkedin.com/in/ctrepat, Rol laboral: Analista de Systemas, Carrera: Bootcamp Devops Engineer.
+#### Ávila Rafael
+##### :envelope:  rafaelavilahernandez@gmail.com
+##### :computer:  Rol laboral: IT Cordinator
+##### :mortar_board:  Carrera Bootcamp Devops Engineer
+##### Linkedin:  https://www.linkedin.com/in/rafael-avila-6343158b/
+------------
 
-Fabian Lucha, exelucha@gmail.com, Perfil Linkedin: https://www.linkedin.com/in/fabian-ezequiel-lucha-1644bb15b/, Rol Laboral: Recepcionista Hotel Royal Princess, Carrera: Bootcamp Devops Engineer. 
+#### Bellón Lorena
+##### :envelope:  lorena@beckandbell.com
+##### :computer:  Rol laboral: Software Engineer
+##### :mortar_board: Carrera Bootcamp Devops Engineer
+##### Linkedin: https://ar.linkedin.com/in/lorenabellon
+------------
 
-Lorena Bellón, lorena@beckandbell.com, Perfil Linkedin: https://ar.linkedin.com/in/lorenabellon, Rol laboral: Software Engineer, Carrera: Bootcamp Devops Engineer.
+#### Lucha Fabian
+##### :envelope:  exelucha@gmail.com
+##### :computer:  Rol laboral: Recepcionista Hotel Royal Princess
+##### :mortar_board: Carrera Bootcamp Devops Engineer
+##### Linkedin:  https://www.linkedin.com/in/fabian-ezequiel-lucha-1644bb15b/
+------------
+#### Luna Diego Martín
+##### :envelope:  diegomartinluna@gmail.com
+##### :computer:  Rol laboral: Gerente de Sistemas
+##### :mortar_board: Carrera Bootcamp Devops Engineer
+##### Linkedin:  https://www.linkedin.com/in/diegomartinluna/
+------------
+
+#### Quiroga Agustin
+##### :envelope:  quirogaagu@gmail.com
+##### :computer:  Rol laboral: Analista de infraestructura
+##### :mortar_board: Carrera Bootcamp Devops Engineer
+##### Linkedin:  https://www.linkedin.com/in/agustin-quiroga-60aab01b1/
+------------
+#### Trepat Carlos
+##### :envelope:  carlostrepat@gmail.com
+##### :computer:  Rol laboral: Analista de Systemas
+##### :mortar_board: Carrera Bootcamp Devops Engineer
+##### Linkedin:  hhttp://linkedin.com/in/ctrepat
+------------
