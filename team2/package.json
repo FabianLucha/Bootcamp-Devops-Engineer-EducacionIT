@@ -1,6 +1,7 @@
 {
   "name": "team2",
   "version": "0.1.0",
+  "homepage": "http://ec2amaz-tk9isj6/Bootcamp-Devops-Engineer-EducacionIT/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
