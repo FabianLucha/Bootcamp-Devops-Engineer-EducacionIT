@@ -1,0 +1,27 @@
+.bg-dark{
+    background-color: #000;
+    color: #fff;
+}
+.naav{
+    font-size:larger;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.naav a {
+    color: inherit;
+    text-decoration: none;
+    gap: 2rem;
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    padding: .25rem;
+}
+.naav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+    margin: 1rem;
+}
+.naav li:hover{
+    background: #19E7A8;
+}
